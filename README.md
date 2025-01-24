@@ -71,12 +71,24 @@ Click the "Generate Face" button to see a generated face.
 Use the "Download as PNG" or "Download as JPG" buttons to save the face.
 
 Directory Structure
+
+
 project-folder/
+
+
 |
 ├── dcgan_1_streamlit.py, dcgan_2.py                # Main Streamlit application
+
+
 ├── generator.pth         # (Optional) Pre-trained DCGAN generator model
+
+
 ├── home.html     # Home page for the project
+
+
 ├── README.md             # Project documentation
+
+
 └── dataset/               # Images organized for training the model
 
 Main Page
