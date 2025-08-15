@@ -1,4 +1,8 @@
-# Face-Gen-With-DCGAN-and-Options
+# 👤 Face-Gen-With-DCGAN-and-Options
+
+---
+
+
 This project demonstrates a human face generation application that combines a Deep Convolutional Generative Adversarial Network (DCGAN) with a user-friendly interface built using Streamlit. The application allows users to generate realistic human faces based on specific attributes, such as gender and nationality.
 
 # Table of Contents
