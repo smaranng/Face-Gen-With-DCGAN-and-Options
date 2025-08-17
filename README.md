@@ -21,11 +21,13 @@ Screenshots
 License
 
 # Features
-# Dynamic Face Generation:
+**1. Dynamic Face Generation:**
 
 Users can select attributes (gender and nationality) to generate human faces.
 
 Fetches face data from the Random User API or from a trained DCGAN model.
+---
+
 
 # User-Friendly Interface:
 
