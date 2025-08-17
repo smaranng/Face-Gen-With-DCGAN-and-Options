@@ -26,8 +26,6 @@ License
 Users can select attributes (gender and nationality) to generate human faces.
 
 Fetches face data from the Random User API or from a trained DCGAN model.
----
-
 
 # User-Friendly Interface:
 
