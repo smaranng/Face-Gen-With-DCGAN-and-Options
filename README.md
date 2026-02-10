@@ -133,14 +133,6 @@ project-folder/
 
 ---
 
-## 🖼 Screenshots
-
-* Main Page
-* Generated Face Output
-
-*(Add screenshots here for better GitHub presentation)*
-
----
 
 ## 🚀 Future Enhancements
 
@@ -151,12 +143,3 @@ project-folder/
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-See the `LICENSE` file for more details.
-
----
-
-✅ Make it more academic/research-style
-✅ Or simplify it for recruiters/portfolio use
